@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jaspreet Singh</h1>
+<h2>Jaspreet Singh</h2>
+<h4>Embedded Systems | IoT | ECE</h4>
 <h3 align="center">ECE Student | Embedded Systems & IoT Enthusiast</h3>
 
 ---
