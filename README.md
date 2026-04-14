@@ -1,10 +1,14 @@
-<h2> align="center">Jaspreet </h2>
+<h2 align="center">Jaspreet Arora</h2>
+
+<p align="center">
+ECE Student | IoT Enthusiast | Embedded Systems
+</p>
 
 <h3 align="center">ECE Student | Embedded Systems & IoT Enthusiast</h3>
 
 ---
 
-## *  About Me
+## ⚙️About Me
 
 *  Final Year B.Tech (Electronics and communication )
 *  Working on Embedded Systems & IoT Projects
@@ -13,7 +17,7 @@
 
 ---
 
-## * Skills
+## ⚙️Skills
 
 * Programming: C, C++
 * Embedded: ESP32, Arduino
@@ -22,7 +26,7 @@
 
 ---
 
-##  * Projects
+## ⚙️ Projects
 
 * Smart IOT Weather Monitoring System
   Real-time environmental data using ESP32 and ThingSpeak
@@ -33,19 +37,19 @@
 
 ---
 
-##  GitHub Stats
+## ⚙️GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true)
-
----
-
-## * Streak
-
-![Streak](https://streak-stats.demolab.com?user=your-username)
+![Stats](https://github-readme-stats.vercel.app/api?username=jaspreetarora04\&show_icons=true)
 
 ---
 
-## *  Connect with Me
+## ⚙️Streak
 
-* LinkedIn: Your Link
-* Email: [your@email.com](  arorajaspreet64@gmail.com)
+![Streak](https://streak-stats.demolab.com?user=jaspreetarora04)
+
+---
+
+## ⚙️Connect with Me
+
+* LinkedIn:  [View Profile](https://linkedin.com/in/jaspreet-arora-52769b25b/)
+* Email:  arorajaspreet64@gmail.com
