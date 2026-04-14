@@ -1,8 +1,5 @@
 <h2 align="center">Jaspreet Arora</h2>
 
-<p align="center">
-ECE Student | IoT Enthusiast | Embedded Systems
-</p>
 
 <h3 align="center">ECE Student | Embedded Systems & IoT Enthusiast</h3>
 
@@ -28,18 +25,22 @@ ECE Student | IoT Enthusiast | Embedded Systems
 
 ## ⚙️ Projects
 
-* Smart IOT Weather Monitoring System
-  Real-time environmental data using ESP32 and ThingSpeak
-*  RF Backscatter Communication
-  Low-power wireless communication system
-*  8-bit ALU using Verilog
-  Digital design and simulation using Vivado
+ **IoT Weather Monitoring System**
+  - Real-time environmental data using ESP32 and ThingSpeak
+  - Sensors: DHT11, BMP180
+
+ **RF Backscatter Communication**
+  - Low-power wireless communication system
+  - Focus on energy-efficient transmission
+
+ **8-bit ALU using Verilog**
+  - Digital design and simulation using Vivado
 
 ---
 
 ## ⚙️GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=jaspreetarora04\&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=jaspreetarora04&show_icons=true)
 
 ---
 
