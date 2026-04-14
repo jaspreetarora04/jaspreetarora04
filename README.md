@@ -1,5 +1,5 @@
-<h2>Jaspreet Singh</h2>
-<h4>Embedded Systems | IoT | ECE</h4>
+<h2> align="center">Jaspreet </h2>
+
 <h3 align="center">ECE Student | Embedded Systems & IoT Enthusiast</h3>
 
 ---
