@@ -19,7 +19,7 @@
 * Programming: C, C++
 * Embedded: ESP32, Arduino
 * Tools: MATLAB, Vivado
-* Core Concepts: Digital Circuits and Design and Electronics devices.
+* Core Concepts: Data Structure and A lgorithms ,Digital Circuits and Design and Electronics devices.
 
 ---
 
